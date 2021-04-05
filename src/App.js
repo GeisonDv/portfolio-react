@@ -1,8 +1,9 @@
 import './App.css';
+import"bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <h2>Inicio de Portofolio</h2>
+    <h2>Inicio de Portfolio</h2>
   );
 }
 
